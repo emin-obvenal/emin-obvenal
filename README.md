@@ -1,6 +1,6 @@
 ### ☕ About Me:
 
-▪️ I’m currently working on building B2B AI automation systems at Obvenal AI.<br>
+▪️ I’m currently working on building B2B AI automation systems.<br>
 ▪️ I’m looking to collaborate on AI-driven workflows and business optimization projects.<br>
 ▪️ I’m currently learning Python, SQL, and advanced n8n/Make automations.<br>
 ▪️ Ask me about process automation, tech stacks, and bridging economics with tech.<br>
