@@ -2,8 +2,6 @@
 
 - 🏗️ Building autonomous operations infrastructure for ultra-luxury Property Management Companies
 - 📍 Based in Rome/Italy (Sapienza University — Economics & Finance)
-- 🔧 Stack: n8n, Python, REST APIs, Webhook architecture
-- 🎯 Focus: Boutique B2B AI automation — hospitality & real estate
 
 #  Tech Stack:
 
