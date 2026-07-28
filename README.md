@@ -1,6 +1,6 @@
 ### ☕ About Me:
 
-- 🏗️ Building autonomous operations infrastructure for ultra-luxury Property Management Companies
+- 🗝️ Building autonomous operations infrastructure for ultra-luxury Property Management Companies
 - 📍 Based in Rome/Italy (Sapienza University — Economics & Finance)
 
 #  Tech Stack:
